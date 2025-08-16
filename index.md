@@ -26,7 +26,7 @@ France
 
 # Registration
 
-Participants should register by filling [this form](https://gdr-iasis.cnrs.fr/membres-du-gdr/annuaire-des-laboratoires-2/).
+Participants should register by filling [this form](https://forms.gle/jhEEpayBgHSYarwT9).
 
 # Speakers
 
