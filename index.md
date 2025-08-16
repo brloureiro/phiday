@@ -12,13 +12,16 @@ This thematic day is part of the [GdR IASIS](https://gdr-iasis.cnrs.fr/) (*Infor
 
 # Schedule
  
- ![schedule](schedule.png)
+<img src="schedule.png" alt="drawing" width="200"/>
 
 # Venue :
 
 Salle de Conférence IV
+
 [Laboratoire de physique de l'Ecole Normale Supérieure](https://www.lpens.ens.psl.eu/)
+
 [24 rue Lhomond, 75005 Paris](https://maps.app.goo.gl/cHvQJKQKihuqtkmf6)
+
 France
 
 # Registration
