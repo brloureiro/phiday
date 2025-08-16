@@ -8,7 +8,7 @@ __Organisers:__  [Bruno Loureiro](https://brloureiro.github.io/) (DI-ENS & CNRS)
 
 # Travel support
 
-This thematic day is part of the [GdR IASIS](https://gdr-iasis.cnrs.fr/) (*Information, Apprentissage, Signal, Image et ViSion*).  The GdR IASIS can cover the travel costs of up to 2 people from labs which are part of the GdR. Note accomodation costs cannot be covered.
+This thematic day is part of the [GdR IASIS](https://gdr-iasis.cnrs.fr/) (*Information, Apprentissage, Signal, Image et ViSion*).  The GdR IASIS can cover the travel costs of up to 2 people from [GdR affiliated laboratories](https://gdr-iasis.cnrs.fr/membres-du-gdr/annuaire-des-laboratoires-2/). Note accomodation costs cannot be covered.
 
 # Schedule
  
@@ -26,7 +26,7 @@ France
 
 # Registration
 
-Participants should register by filling [this form]().
+Participants should register by filling [this form](https://gdr-iasis.cnrs.fr/membres-du-gdr/annuaire-des-laboratoires-2/).
 
 # Speakers
 
@@ -36,7 +36,7 @@ Participants should register by filling [this form]().
 - [Guilhem Semerjian](https://www.phys.ens.psl.eu/~guilhem/) (LPENS)
 - [Ludovic Stéphan](https://www.lstephan.fr/) (ENSAI Rennes)
 
-We will also count with 3 contributed talks from participants (TBA).
+We will also count with 2 contributed talks from participants (TBA).
 
 # Sponsors
 
