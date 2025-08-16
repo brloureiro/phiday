@@ -4,7 +4,7 @@ Phase transitions have emerged as a unifying theme across probability, statistic
 
 This thematic day will bring together researchers from diverse fields to discuss recent progress, open challenges, and emerging connections around phase transitions in high-dimensional inference.
 
-__Organisers:__  Bruno Loureiro (DI-ENS & CNRS) and Marylou Gabrié (LPENS)
+__Organisers:__  [Bruno Loureiro](https://brloureiro.github.io/) (DI-ENS & CNRS) and [Marylou Gabrié](https://marylou-gabrie.github.io/) (LPENS)
 
 # Travel support
 
@@ -12,7 +12,7 @@ This thematic day is part of the [GdR IASIS](https://gdr-iasis.cnrs.fr/) (*Infor
 
 # Schedule
  
-<img src="schedule.png" alt="drawing" width="200"/>
+<img src="schedule.png" alt="drawing" width="100"/>
 
 # Venue :
 
