@@ -12,7 +12,7 @@ This thematic day is part of the [GdR IASIS](https://gdr-iasis.cnrs.fr/) (*Infor
 
 # Schedule
  
-<img src="schedule.png" alt="drawing" width="100"/>
+<img src="schedule.png" alt="drawing" width="500"/>
 
 # Venue :
 
@@ -30,11 +30,11 @@ Participants should register by filling [this form]().
 
 # Speakers
 
-- [Guilhem Semerjian](https://www.phys.ens.psl.eu/~guilhem/) (LPENS)
-- [Louise Budzynski](https://scholar.google.com/citations?user=QQtOq2EAAAAJ&hl=fr) (DI-ENS)
-- [Ludovic Stéphan](https://www.lstephan.fr/) (ENSAI Rennes)
 - [Freya Behrens](https://scholar.google.com/citations?user=6zjf_R8AAAAJ&hl=de) (EPFL)
+- [Louise Budzynski](https://scholar.google.com/citations?user=QQtOq2EAAAAJ&hl=fr) (DI-ENS)
 - [Vittorio Erba](https://vittorioerba.github.io/) (EPFL)
+- [Guilhem Semerjian](https://www.phys.ens.psl.eu/~guilhem/) (LPENS)
+- [Ludovic Stéphan](https://www.lstephan.fr/) (ENSAI Rennes)
 
 We will also count with 3 contributed talks from participants (TBA).
 
@@ -42,5 +42,5 @@ We will also count with 3 contributed talks from participants (TBA).
 
 <img src="gdr-logo.png" alt="GdR IASIS logo" width="200">
 <img src="ens-logo.png" alt="ENS logo" width="200">
-<img src="cnrs-logo.png" alt="CNRS logo" width="100">
+<img src="cnrs-logo.png" alt="CNRS logo" width="75">
 
