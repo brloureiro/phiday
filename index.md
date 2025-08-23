@@ -26,7 +26,7 @@ France
 
 # Registration
 
-Participants should register by filling [this form](https://forms.gle/jhEEpayBgHSYarwT9).
+Participants should register at the official [GdR IASIS](https://gdr-iasis.cnrs.fr/reunions/thematic-day-on-phase-transitions-in-high-dimensional-inference/) page.
 
 # Speakers
 
@@ -37,6 +37,12 @@ Participants should register by filling [this form](https://forms.gle/jhEEpayBgH
 - [Ludovic Stéphan](https://www.lstephan.fr/) (ENSAI Rennes)
 
 We will also count with 2 contributed talks from participants (TBA).
+
+# Contributed talks
+
+We will have two contributed talks from participants of the thematic day. If you wish to apply for a contributed talk, please register for the thematic day and fill [this form](https://forms.gle/3vYAi7PfgHuiPTUW6).
+
+Note: filling the form does not imply automatic registration.
 
 # Sponsors
 
